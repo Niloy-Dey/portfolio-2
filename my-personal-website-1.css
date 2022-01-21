@@ -1,0 +1,96 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family: sans-serif;
+}
+h3{
+    font-size: 30px;
+}
+.name-highlight{
+    font-size: 40px;
+    color:rgb(241, 34, 138);
+}
+h1{
+    font-size: 40px;
+}
+.half-div{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#c91267,rgb(255, 71, 102));
+    padding:10px;
+    color:white;
+    font-weight: bold;
+    border-radius: 5px;
+    
+}
+.half-div img{
+    width:100%;
+    height: 100%;
+}
+.head-section{
+    background-image: url(image/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section{
+    height:500px;
+    padding-bottom: 300px;
+    padding-top:200px;
+}
+.middel-section{
+    background-image: url(image/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.last-section{
+    background-image: url(image/latest-work-bg.png);
+    padding-top: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.latest{
+    text-align: center;
+}
+.all-work-div{
+    text-align: center;
+    margin-left: 20px;
+}
+.all-work-div img{
+    height: 350px;
+    width:450px;
+}
+.work-div{
+    float:left;
+    padding:20px;
+}
+
+.footer-class{
+    text-align: center;
+    background-image: url(image/footer-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.pre-text{
+    font-size: 20px;
+    margin:0% 10% 0% 0%;
+}
+.footer-email{
+    background-image: linear-gradient(#c91267,rgb(255, 71, 102));
+    color:white;
+    padding:30px;
+    width:600px;
+    margin-left: 28%;
+    border-radius: 10px;
+    
+}
+footer{
+    text-align: center;
+    padding-bottom: 20px;
+}
